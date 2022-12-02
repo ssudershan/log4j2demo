@@ -1,0 +1,566 @@
+2022-11-30 20:56:33,658809000 Starting Log4j2demoApplication using Java 17.0.1 with PID 48895 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 20:56:33,660351000 The following 1 profile is active: "dev"
+2022-11-30 20:56:33,875695000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 20:56:33,886516000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 20:56:34,049600000 HikariPool-1 - Starting...
+2022-11-30 20:56:34,165376000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 20:56:34,166098000 HikariPool-1 - Start completed.
+2022-11-30 20:56:34,191635000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 20:56:34,223255000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 20:56:34,318649000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 20:56:34,411243000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 20:56:34,555700000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 20:56:34,560267000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 20:56:34,620195000 Started Log4j2demoApplication in 1.192 seconds (process running for 1.582)
+2022-11-30 20:56:34,621444000 Hello World
+2022-11-30 20:56:34,621561000 Hello ERROR World
+2022-11-30 20:56:34,623564000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 20:56:34,625366000 HikariPool-1 - Shutdown initiated...
+2022-11-30 20:56:34,626645000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:13:43,766964000 Starting Log4j2demoApplication using Java 17.0.1 with PID 49921 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:13:48,785490000 The following 1 profile is active: "dev"
+2022-11-30 21:13:48,993555000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:13:49,003070000 Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:13:49,186504000 HikariPool-1 - Starting...
+2022-11-30 21:13:49,302793000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:13:49,304607000 HikariPool-1 - Start completed.
+2022-11-30 21:13:49,335724000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:13:49,385418000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:13:49,513364000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:13:49,592658000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:13:49,730280000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:13:49,735507000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:13:49,792405000 Started Log4j2demoApplication in 6.228 seconds (process running for 6.56)
+2022-11-30 21:13:49,794015000 Hello World
+2022-11-30 21:13:49,794437000 Hello ERROR World
+2022-11-30 21:13:49,796556000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:13:49,798574000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:13:49,800057000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:15:25,846323000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50011 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:15:30,858423000 The following 1 profile is active: "dev"
+2022-11-30 21:15:31,079416000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:15:31,092020000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:15:31,258913000 HikariPool-1 - Starting...
+2022-11-30 21:15:31,375650000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:15:31,377845000 HikariPool-1 - Start completed.
+2022-11-30 21:15:31,407220000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:15:31,444043000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:15:31,543207000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:15:31,623491000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:15:31,769939000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:15:31,775252000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:15:31,832223000 Started Log4j2demoApplication in 6.207 seconds (process running for 6.522)
+2022-11-30 21:15:31,833775000 Hello World
+2022-11-30 21:15:31,834176000 Hello ERROR World
+2022-11-30 21:15:31,835713000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:15:31,837415000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:15:31,838714000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:16:04,525100000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50045 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:16:09,540628000 The following 1 profile is active: "dev"
+2022-11-30 21:16:09,739229000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:16:09,749475000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:16:09,898198000 HikariPool-1 - Starting...
+2022-11-30 21:16:10,011532000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:16:10,013230000 HikariPool-1 - Start completed.
+2022-11-30 21:16:10,043252000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:16:10,070634000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:16:10,154918000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:16:10,227065000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:16:10,388453000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:16:10,394365000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:16:10,467498000 Started Log4j2demoApplication in 6.144 seconds (process running for 6.526)
+2022-11-30 21:16:10,469301000 Hello World
+2022-11-30 21:16:10,471112000 Hello ERROR World
+2022-11-30 21:16:10,473623000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:16:10,475954000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:16:10,477695000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:17:46,980830000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50133 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:17:55,320757000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50142 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:21:12,436400000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50327 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:21:17,456382000 The following 1 profile is active: "dev"
+2022-11-30 21:21:17,652872000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:21:17,663707000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:21:17,811091000 HikariPool-1 - Starting...
+2022-11-30 21:21:17,912927000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:21:17,914315000 HikariPool-1 - Start completed.
+2022-11-30 21:21:17,941497000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:21:17,968019000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:21:18,055720000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:21:18,117518000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:21:18,239869000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:21:18,244620000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:21:18,301353000 Started Log4j2demoApplication in 6.064 seconds (process running for 6.387)
+2022-11-30 21:21:18,302965000 Hello World
+2022-11-30 21:21:18,303359000 Hello ERROR World
+2022-11-30 21:21:18,305360000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:21:18,307471000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:21:18,309205000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:22:45,920529000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50416 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:22:50,941825000 The following 1 profile is active: "dev"
+2022-11-30 21:22:51,149947000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:22:51,161597000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:22:51,307434000 HikariPool-1 - Starting...
+2022-11-30 21:22:51,412989000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:22:51,414635000 HikariPool-1 - Start completed.
+2022-11-30 21:22:51,438218000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:22:51,469538000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:22:51,563310000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:22:51,633485000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:22:51,755132000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:22:51,760188000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:22:51,814304000 Started Log4j2demoApplication in 6.106 seconds (process running for 6.431)
+2022-11-30 21:22:51,815931000 Hello World
+2022-11-30 21:22:51,816369000 Hello ERROR World
+2022-11-30 21:22:51,818370000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:22:51,820440000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:22:51,821809000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:23:44,651916000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50471 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:25:46,772480000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50584 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:25:51,788871000 The following 1 profile is active: "dev"
+2022-11-30 21:25:51,993316000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:25:52,004451000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:25:52,152165000 HikariPool-1 - Starting...
+2022-11-30 21:25:52,254464000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:25:52,255914000 HikariPool-1 - Start completed.
+2022-11-30 21:25:52,283782000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:25:52,310844000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:25:52,384438000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:25:52,459836000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:25:52,590200000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:25:52,595194000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:25:52,652423000 Started Log4j2demoApplication in 6.098 seconds (process running for 6.43)
+2022-11-30 21:25:52,654070000 Hello World
+2022-11-30 21:25:52,654547000 Hello ERROR World
+2022-11-30 21:25:52,656640000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:25:52,658748000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:25:52,660151000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:26:21,999559000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50624 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:26:27,019974000 The following 1 profile is active: "dev"
+2022-11-30 21:26:27,222655000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:26:27,232882000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:26:27,374973000 HikariPool-1 - Starting...
+2022-11-30 21:26:27,480891000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:26:27,482351000 HikariPool-1 - Start completed.
+2022-11-30 21:26:27,508358000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:26:27,537997000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:26:27,612655000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:26:27,683289000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:26:27,817413000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:26:27,822247000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:26:27,874643000 Started Log4j2demoApplication in 6.087 seconds (process running for 6.463)
+2022-11-30 21:26:27,876240000 Hello World
+2022-11-30 21:26:27,876688000 Hello ERROR World
+2022-11-30 21:26:27,878447000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:26:27,880288000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:26:27,881624000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:29:36,903170000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50862 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:29:36,911651000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:29:36,913187000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:29:41,919166000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:29:58,222940000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50885 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:30:05,325813000 Starting Log4j2demoApplication using Java 17.0.1 with PID 50891 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:30:05,333532000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:30:05,334833000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:30:10,341512000 HikariPool-1 - dataSource or dataSourceClassName or jdbcUrl is required.
+2022-11-30 21:44:24,751148000 Starting Log4j2demoApplication using Java 17.0.1 with PID 51768 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:44:29,781402000 The following 1 profile is active: "dev"
+2022-11-30 21:44:29,991342000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:44:30,002990000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:44:30,155355000 HikariPool-1 - Starting...
+2022-11-30 21:44:30,265573000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:44:30,267153000 HikariPool-1 - Start completed.
+2022-11-30 21:44:30,295304000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:44:30,326972000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:44:30,410026000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:44:30,480710000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:44:30,615352000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:44:30,620415000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:44:30,673834000 Started Log4j2demoApplication in 6.14 seconds (process running for 6.501)
+2022-11-30 21:44:30,675455000 Hello World
+2022-11-30 21:44:30,675941000 Hello ERROR World
+2022-11-30 21:44:30,677912000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:44:30,680032000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:44:30,682135000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:47:18,404152000 Starting Log4j2demoApplication using Java 17.0.1 with PID 51947 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:47:46,693986000 Starting Log4j2demoApplication using Java 17.0.1 with PID 51975 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:51:27,673776000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52178 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:53:39,553568000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52310 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:54:21,258974000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52349 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:54:26,289338000 The following 1 profile is active: "dev"
+2022-11-30 21:54:26,489847000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:54:26,501554000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:54:26,649212000 HikariPool-1 - Starting...
+2022-11-30 21:54:26,755867000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:54:26,757617000 HikariPool-1 - Start completed.
+2022-11-30 21:54:26,783286000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:54:26,812556000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:54:26,886729000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:54:26,961992000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:54:27,085482000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:54:27,090631000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:54:27,148369000 Started Log4j2demoApplication in 6.097 seconds (process running for 6.442)
+2022-11-30 21:54:27,150051000 Hello World
+2022-11-30 21:54:27,150545000 Hello ERROR World
+2022-11-30 21:54:27,152356000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:54:27,154439000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:54:27,156059000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:54:40,545900000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52366 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:55:05,415775000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52391 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:55:49,167876000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52429 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:55:54,202978000 The following 1 profile is active: "dev"
+2022-11-30 21:55:54,442744000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:55:54,456407000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:55:54,608153000 HikariPool-1 - Starting...
+2022-11-30 21:55:54,709087000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:55:54,710591000 HikariPool-1 - Start completed.
+2022-11-30 21:55:54,738426000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:55:54,762557000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:55:54,837665000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:55:54,911254000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:55:55,031652000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:55:55,036525000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:55:55,095955000 Started Log4j2demoApplication in 6.129 seconds (process running for 6.5)
+2022-11-30 21:55:55,097558000 Hello World
+2022-11-30 21:55:55,097980000 Hello ERROR World
+2022-11-30 21:55:55,099811000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:55:55,101854000 HikariPool-1 - Shutdown initiated...
+2022-11-30 21:55:55,103290000 HikariPool-1 - Shutdown completed.
+2022-11-30 21:56:12,492701000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52454 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:56:35,372735000 Starting Log4j2demoApplication using Java 17.0.1 with PID 52472 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-11-30 21:56:35,383364000 HikariPool-1 - Starting...
+2022-11-30 21:56:35,501034000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:56:35,502464000 HikariPool-1 - Start completed.
+2022-11-30 21:56:35,526822000 The following 1 profile is active: "dev"
+2022-11-30 21:56:35,722200000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-30 21:56:35,732083000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-11-30 21:56:35,870639000 HikariPool-2 - Starting...
+2022-11-30 21:56:35,872258000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-11-30 21:56:35,872895000 HikariPool-2 - Start completed.
+2022-11-30 21:56:35,889712000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-30 21:56:35,916644000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-11-30 21:56:35,998099000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-11-30 21:56:36,053010000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-11-30 21:56:36,174184000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-30 21:56:36,179631000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:56:36,237142000 Started Log4j2demoApplication in 1.061 seconds (process running for 1.363)
+2022-11-30 21:56:36,239028000 Hello World
+2022-11-30 21:56:36,239639000 Hello ERROR World
+2022-11-30 21:56:36,242031000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-30 21:56:41,280318000 HikariPool-2 - Shutdown initiated...
+2022-11-30 21:56:41,283948000 HikariPool-2 - Shutdown completed.
+2022-12-01 09:24:49,299205000 Starting Log4j2demoApplication using Java 17.0.1 with PID 59696 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:24:49,308899000 HikariPool-1 - Starting...
+2022-12-01 09:24:49,416666000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:24:49,417913000 HikariPool-1 - Start completed.
+2022-12-01 09:24:49,435845000 The following 1 profile is active: "dev"
+2022-12-01 09:24:49,617814000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:24:49,627923000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:24:49,763515000 HikariPool-2 - Starting...
+2022-12-01 09:24:49,765110000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:24:49,765778000 HikariPool-2 - Start completed.
+2022-12-01 09:24:49,783882000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:24:49,810540000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:24:49,882175000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:24:49,947152000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:24:50,073457000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:24:50,082186000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:24:50,136345000 Started Log4j2demoApplication in 1.042 seconds (process running for 1.424)
+2022-12-01 09:24:50,138124000 Hello World
+2022-12-01 09:24:50,138691000 Hello ERROR World
+2022-12-01 09:24:50,140639000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:24:55,179629000 HikariPool-2 - Shutdown initiated...
+2022-12-01 09:24:55,186592000 HikariPool-2 - Shutdown completed.
+2022-12-01 09:25:41,252489000 Starting Log4j2demoApplication using Java 17.0.1 with PID 59739 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:25:41,262672000 HikariPool-1 - Starting...
+2022-12-01 09:25:41,363961000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:25:41,365206000 HikariPool-1 - Start completed.
+2022-12-01 09:25:41,382140000 The following 1 profile is active: "dev"
+2022-12-01 09:25:41,561511000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:25:41,571745000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:25:41,703775000 HikariPool-2 - Starting...
+2022-12-01 09:25:41,705505000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:25:41,706180000 HikariPool-2 - Start completed.
+2022-12-01 09:25:41,722758000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:25:41,748243000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:25:41,818842000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:25:41,875117000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:25:41,998904000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:25:42,004124000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:25:42,060528000 Started Log4j2demoApplication in 1.028 seconds (process running for 1.348)
+2022-12-01 09:25:42,062277000 Hello World
+2022-12-01 09:25:42,062862000 Hello ERROR World
+2022-12-01 09:25:42,065088000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:25:47,100714000 HikariPool-2 - Shutdown initiated...
+2022-12-01 09:25:47,108172000 HikariPool-2 - Shutdown completed.
+2022-12-01 09:28:22,422046000 Starting Log4j2demoApplication using Java 17.0.1 with PID 59912 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:28:22,423732000 The following 1 profile is active: "dev"
+2022-12-01 09:28:22,601193000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:28:22,609582000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:28:22,748835000 HikariPool-1 - Starting...
+2022-12-01 09:28:22,851514000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:28:22,852298000 HikariPool-1 - Start completed.
+2022-12-01 09:28:22,877039000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:28:22,905237000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:28:22,980055000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:28:23,053852000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:28:23,177620000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:28:23,181598000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:28:23,232083000 Started Log4j2demoApplication in 1.004 seconds (process running for 1.299)
+2022-12-01 09:28:23,233151000 Hello World
+2022-12-01 09:28:23,233238000 Hello ERROR World
+2022-12-01 09:28:23,234496000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:28:23,235916000 HikariPool-1 - Shutdown initiated...
+2022-12-01 09:28:23,236873000 HikariPool-1 - Shutdown completed.
+2022-12-01 09:37:24,137171000 Starting Log4j2demoApplication using Java 17.0.1 with PID 60439 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:37:24,139586000 The following 1 profile is active: "dev"
+2022-12-01 09:37:24,332772000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:37:24,340966000 Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:37:24,476561000 HikariPool-1 - Starting...
+2022-12-01 09:37:24,583759000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:37:24,584451000 HikariPool-1 - Start completed.
+2022-12-01 09:37:24,611182000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:37:24,635425000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:37:24,706656000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:37:24,780824000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:37:24,901412000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:37:24,908121000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:37:24,960969000 Started Log4j2demoApplication in 1.027 seconds (process running for 1.347)
+2022-12-01 09:37:24,963003000 Hello World
+2022-12-01 09:37:24,963090000 Hello ERROR World
+2022-12-01 09:37:24,964584000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:37:24,966118000 HikariPool-1 - Shutdown initiated...
+2022-12-01 09:37:24,967116000 HikariPool-1 - Shutdown completed.
+2022-12-01 09:37:53,033247000 Starting Log4j2demoApplication using Java 17.0.1 with PID 60463 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:37:53,043468000 HikariPool-1 - Starting...
+2022-12-01 09:37:53,159853000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:37:53,161584000 HikariPool-1 - Start completed.
+2022-12-01 09:37:53,185270000 The following 1 profile is active: "dev"
+2022-12-01 09:37:53,370731000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:37:53,380435000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:37:53,520158000 HikariPool-2 - Starting...
+2022-12-01 09:37:53,521778000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:37:53,522592000 HikariPool-2 - Start completed.
+2022-12-01 09:37:53,539852000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:37:53,567619000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:37:53,644378000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:37:53,705017000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:37:53,841354000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:37:53,846296000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:37:53,900511000 Started Log4j2demoApplication in 1.072 seconds (process running for 1.417)
+2022-12-01 09:37:53,902467000 Hello World
+2022-12-01 09:37:53,903043000 Hello ERROR World
+2022-12-01 09:37:53,907971000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:37:58,950714000 HikariPool-2 - Shutdown initiated...
+2022-12-01 09:37:58,957098000 HikariPool-2 - Shutdown completed.
+2022-12-01 09:40:02,988369000 Starting Log4j2demoApplication using Java 17.0.1 with PID 60585 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 09:40:02,998802000 HikariPool-1 - Starting...
+2022-12-01 09:40:03,101855000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:40:03,103170000 HikariPool-1 - Start completed.
+2022-12-01 09:40:03,122271000 The following 1 profile is active: "dev"
+2022-12-01 09:40:03,314227000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 09:40:03,323939000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 09:40:03,459280000 HikariPool-2 - Starting...
+2022-12-01 09:40:03,461001000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 09:40:03,461684000 HikariPool-2 - Start completed.
+2022-12-01 09:40:03,479305000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 09:40:03,505349000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 09:40:03,576800000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 09:40:03,641779000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 09:40:03,767511000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 09:40:03,773178000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 09:40:03,829468000 Started Log4j2demoApplication in 1.054 seconds (process running for 1.351)
+2022-12-01 09:40:03,831303000 Hello World
+2022-12-01 09:40:03,831853000 Hello ERROR World
+2022-12-01 10:16:20,822397000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:16:21,030545000 HikariPool-2 - Shutdown initiated...
+2022-12-01 10:16:21,032342000 HikariPool-2 - Shutdown completed.
+2022-12-01 10:16:51,378104000 Starting Log4j2demoApplication using Java 17.0.1 with PID 62747 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:16:51,382016000 The following 1 profile is active: "dev"
+2022-12-01 10:16:51,639646000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:16:51,647877000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:16:51,869671000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:16:51,875170000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:16:51,875741000 Starting service [Tomcat]
+2022-12-01 10:16:51,875911000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:16:51,915927000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:16:51,916730000 Root WebApplicationContext: initialization completed in 508 ms
+2022-12-01 10:16:51,982139000 HikariPool-1 - Starting...
+2022-12-01 10:16:52,064659000 HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:17bdeca8-84a4-4263-b759-9c8aac583208 user=SA
+2022-12-01 10:16:52,065500000 HikariPool-1 - Start completed.
+2022-12-01 10:16:52,092377000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:16:52,119528000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:16:52,189891000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:16:52,269440000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:16:52,421145000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:16:52,426912000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:16:52,446563000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:16:52,619747000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:16:52,633997000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:16:52,639291000 Started Log4j2demoApplication in 1.455 seconds (process running for 1.775)
+2022-12-01 10:16:52,640263000 Hello World
+2022-12-01 10:16:52,640326000 Hello ERROR World
+2022-12-01 10:16:59,074672000 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-01 10:16:59,075086000 Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:16:59,076133000 Completed initialization in 1 ms
+2022-12-01 10:18:18,400391000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:18:18,403293000 HikariPool-1 - Shutdown initiated...
+2022-12-01 10:18:18,405267000 HikariPool-1 - Shutdown completed.
+2022-12-01 10:18:19,442322000 Starting Log4j2demoApplication using Java 17.0.1 with PID 62839 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:18:19,448005000 The following 1 profile is active: "dev"
+2022-12-01 10:18:19,737596000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:18:19,747643000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:18:20,029779000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:18:20,034400000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:18:20,034831000 Starting service [Tomcat]
+2022-12-01 10:18:20,034996000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:18:20,073441000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:18:20,074309000 Root WebApplicationContext: initialization completed in 601 ms
+2022-12-01 10:18:20,137404000 HikariPool-1 - Starting...
+2022-12-01 10:18:20,243686000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:18:20,244419000 HikariPool-1 - Start completed.
+2022-12-01 10:18:20,269763000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:18:20,292660000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:18:20,362997000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:18:20,423447000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:18:20,539985000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:18:20,544931000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:18:20,560068000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:18:20,715764000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:18:20,730711000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:18:20,735195000 Started Log4j2demoApplication in 1.515 seconds (process running for 1.869)
+2022-12-01 10:18:20,736141000 Hello World
+2022-12-01 10:18:20,736206000 Hello ERROR World
+2022-12-01 10:18:25,803721000 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-01 10:18:25,804076000 Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:18:25,805228000 Completed initialization in 1 ms
+2022-12-01 10:20:00,243802000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:20:00,246988000 HikariPool-1 - Shutdown initiated...
+2022-12-01 10:20:00,248600000 HikariPool-1 - Shutdown completed.
+2022-12-01 10:20:01,417593000 Starting Log4j2demoApplication using Java 17.0.1 with PID 62928 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:20:01,422235000 The following 1 profile is active: "dev"
+2022-12-01 10:20:01,713463000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:20:01,723776000 Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:20:01,956902000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:20:01,961727000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:20:01,962160000 Starting service [Tomcat]
+2022-12-01 10:20:01,962325000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:20:02,009183000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:20:02,010467000 Root WebApplicationContext: initialization completed in 566 ms
+2022-12-01 10:20:02,033756000 HikariPool-1 - Starting...
+2022-12-01 10:20:02,134287000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:20:02,135023000 HikariPool-1 - Start completed.
+2022-12-01 10:20:02,140787000 H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Downloads/h2db/log4j'
+2022-12-01 10:20:02,209517000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:20:02,232584000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:20:02,303674000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:20:02,359252000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:20:02,482901000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:20:02,487309000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:20:02,507472000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:20:02,658168000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:20:02,672824000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:20:02,677558000 Started Log4j2demoApplication in 1.482 seconds (process running for 1.821)
+2022-12-01 10:20:02,678464000 Hello World
+2022-12-01 10:20:02,678526000 Hello ERROR World
+2022-12-01 10:24:08,117725000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:24:08,120987000 HikariPool-1 - Shutdown initiated...
+2022-12-01 10:24:08,166857000 HikariPool-1 - Shutdown completed.
+2022-12-01 10:41:02,233750000 Starting Log4j2demoApplication using Java 17.0.1 with PID 64087 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:41:02,238538000 The following 1 profile is active: "dev"
+2022-12-01 10:41:02,549443000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:41:02,557767000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:41:02,821747000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:41:02,827630000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:41:02,828048000 Starting service [Tomcat]
+2022-12-01 10:41:02,828223000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:41:02,882639000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:41:02,883639000 Root WebApplicationContext: initialization completed in 622 ms
+2022-12-01 10:41:02,905812000 HikariPool-1 - Starting...
+2022-12-01 10:41:03,011330000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:41:03,012111000 HikariPool-1 - Start completed.
+2022-12-01 10:41:03,022824000 H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Downloads/h2db/log4j'
+2022-12-01 10:41:03,101603000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:41:03,132123000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:41:03,209700000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:41:03,266442000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:41:03,396330000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:41:03,401366000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:41:03,419333000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:41:03,570340000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:41:03,582001000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:41:03,586687000 Started Log4j2demoApplication in 1.582 seconds (process running for 1.952)
+2022-12-01 10:41:03,587698000 Hello World
+2022-12-01 10:41:03,587778000 Hello ERROR World
+2022-12-01 10:43:05,023269000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:43:05,026365000 HikariPool-1 - Shutdown initiated...
+2022-12-01 10:43:05,027885000 HikariPool-1 - Shutdown completed.
+2022-12-01 10:46:04,501966000 Starting Log4j2demoApplication using Java 17.0.1 with PID 64373 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:46:04,511508000 HikariPool-1 - Starting...
+2022-12-01 10:46:04,620087000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:46:04,621429000 HikariPool-1 - Start completed.
+2022-12-01 10:46:04,639131000 The following 1 profile is active: "dev"
+2022-12-01 10:46:04,897137000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:46:04,906604000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:46:05,138137000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:46:05,143531000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:46:05,144497000 Starting service [Tomcat]
+2022-12-01 10:46:05,145170000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:46:05,199453000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:46:05,201068000 Root WebApplicationContext: initialization completed in 543 ms
+2022-12-01 10:46:05,213282000 HikariPool-2 - Starting...
+2022-12-01 10:46:05,214736000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:46:05,215337000 HikariPool-2 - Start completed.
+2022-12-01 10:46:05,215926000 H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Downloads/h2db/log4j'
+2022-12-01 10:46:05,281612000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:46:05,307002000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:46:05,380514000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:46:05,438636000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:46:05,569336000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:46:05,574627000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:46:05,592938000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:46:05,735553000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:46:05,748282000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:46:05,753566000 Started Log4j2demoApplication in 1.465 seconds (process running for 1.774)
+2022-12-01 10:46:05,755223000 Hello World
+2022-12-01 10:46:05,755821000 Hello ERROR World
+2022-12-01 10:49:10,256800000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:49:10,417051000 HikariPool-2 - Shutdown initiated...
+2022-12-01 10:49:10,419248000 HikariPool-2 - Shutdown completed.
+2022-12-01 10:49:11,728598000 Starting Log4j2demoApplication using Java 17.0.1 with PID 64550 (/Users/sudershan/Downloads/log4j2demo/build/classes/java/main started by sudershan in /Users/sudershan/Downloads/log4j2demo)
+2022-12-01 10:49:11,740895000 HikariPool-1 - Starting...
+2022-12-01 10:49:11,853322000 HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:49:11,854603000 HikariPool-1 - Start completed.
+2022-12-01 10:49:11,875010000 The following 1 profile is active: "dev"
+2022-12-01 10:49:12,128891000 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-01 10:49:12,139488000 Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2022-12-01 10:49:12,343115000 Tomcat initialized with port(s): 8080 (http)
+2022-12-01 10:49:12,348482000 Initializing ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:49:12,349545000 Starting service [Tomcat]
+2022-12-01 10:49:12,350172000 Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-01 10:49:12,398043000 Initializing Spring embedded WebApplicationContext
+2022-12-01 10:49:12,399764000 Root WebApplicationContext: initialization completed in 505 ms
+2022-12-01 10:49:12,412899000 HikariPool-2 - Starting...
+2022-12-01 10:49:12,414372000 HikariPool-2 - Added connection conn10: url=jdbc:h2:file:~/Downloads/h2db/log4j user=SA
+2022-12-01 10:49:12,415042000 HikariPool-2 - Start completed.
+2022-12-01 10:49:12,415687000 H2 console available at '/h2-console'. Database available at 'jdbc:h2:file:~/Downloads/h2db/log4j'
+2022-12-01 10:49:12,476006000 HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-01 10:49:12,505126000 HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-01 10:49:12,574625000 HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-01 10:49:12,632066000 HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-01 10:49:12,757529000 HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-01 10:49:12,762751000 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:49:12,779475000 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-01 10:49:12,915100000 Starting ProtocolHandler ["http-nio-8080"]
+2022-12-01 10:49:12,928097000 Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-01 10:49:12,933819000 Started Log4j2demoApplication in 1.399 seconds (process running for 1.712)
+2022-12-01 10:49:12,935518000 Hello World
+2022-12-01 10:49:12,936049000 Hello ERROR World
+2022-12-01 10:49:17,033818000 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-01 10:49:17,035708000 Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:49:17,038818000 Completed initialization in 2 ms
+2022-12-01 10:50:08,999615000 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-01 10:50:09,206391000 HikariPool-2 - Shutdown initiated...
+2022-12-01 10:50:09,209871000 HikariPool-2 - Shutdown completed.
+2022-12-01 10:50:29,643000000 Hello ERROR World
+2022-12-01 11:06:41,084538000 custom_msg="this is a custom  message " message="this is an actual error message "
+2022-12-01 11:22:03,757009000 custom_msg="this is a custom  message " message="this is an actual error message "

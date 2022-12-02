@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss,nnnnnnnnn} %K{custom_msg}%n"/>
+        </Console>
+        <File name="File" fileName="output-dev.log" bufferedIO="false">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss,nnnnnnnnn} %m%n"/>
+        </File>
+        <JDBC name="jdbcappender" tableName="LOG4J2_APP_LOG">
+            <ConnectionFactory
+                    class="com.example.log4j2demo.Log4J2JDBCConnectionFactory"
+                    method="getConnection" />
+            <Column name="log_date" isEventTimestamp="true"/>
+            <Column name="log_class" pattern="%logger"/>
+            <Column name="log_level" pattern="%level"/>
+            <Column name="log_msg" pattern="%m"/>
+            <Column name="log_custom" pattern="%K{custom_msg}"/>
+        </JDBC>
+    </Appenders>
+    <Loggers>
+        <Root level="ERROR">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+            <AppenderRef ref="jdbcappender"/>
+        </Root>
+    </Loggers>
+</Configuration>
